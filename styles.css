@@ -29,9 +29,9 @@ a{
     color:black;
 }
 .icon{
-    position:relative;
+     position:absolute;
     left:84%;
-    top:10px;
+    top:70px; 
 }
   
 .container{
